@@ -1,0 +1,7 @@
+Reuest data from any of the San Francisco city government departments below.
+
+<ul>
+{% for department in departments %}
+<li> <a href="/department/{{ department }}">{{ department }}</a></li>
+{% endfor %}
+</ul>
