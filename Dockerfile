@@ -17,7 +17,7 @@ WORKDIR /usr/src/app
 COPY requirements.txt /usr/src/app/
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY sunshine /usr/src/app/sunshine
+COPY app /usr/src/app/app
 
 # nginx setup
 RUN rm /etc/nginx/sites-enabled/default
