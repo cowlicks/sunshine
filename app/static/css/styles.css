@@ -224,8 +224,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
-  float:right;
+  float:center;
   padding-bottom:50px;
 }
 
@@ -266,8 +265,6 @@ footer {
   }
 
   section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
   }
@@ -318,7 +315,15 @@ footer {
 @media print {
   body {
     padding:0.4in;
-    font-size:12pt;
+    font-size:15pt;
     color:#444;
   }
 }
+
+#search-box {
+  background: transparent url(/static/media/search-icon.svg) no-repeat scroll left center;
+  border: none;
+  height: 50px;
+  padding-left: 40px;
+  width:99%;
+  }
