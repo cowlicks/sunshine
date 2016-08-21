@@ -9,6 +9,8 @@
 <hr>
 
 <section>
+    <div id="search-results">
+    </div>
 <ul>
 {% for department in departments %}
 <li> <a href="/department/{{ department }}">{{ department }}</a></li>
@@ -17,4 +19,5 @@
 </section>
 
 <hr>
+<script src="{{ url_for('static', filename='js/search.js') }}"></script>
 {% endblock %}
