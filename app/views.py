@@ -10,4 +10,4 @@ def index():
 
 @app.route('/department/<dept>')
 def department(dept):
-    return "Welcome to the %s department" % dept
+    return render_template('department.html', department=dept)
