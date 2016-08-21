@@ -2,10 +2,19 @@
 
 {% block content %}
 <h2> Reuest data from San Francisco city government </h2>
+<hr>
 
+<input type="search" id="search-box" placeholder="Search departments...">
+
+<hr>
+
+<section>
 <ul>
 {% for department in departments %}
 <li> <a href="/department/{{ department }}">{{ department }}</a></li>
 {% endfor %}
 </ul>
+</section>
+
+<hr>
 {% endblock %}
