@@ -1,7 +1,11 @@
-Reuest data from any of the San Francisco city government departments below.
+{% extends "base.html" %}
+
+{% block content %}
+<h2> Reuest data from San Francisco city government </h2>
 
 <ul>
 {% for department in departments %}
 <li> <a href="/department/{{ department }}">{{ department }}</a></li>
 {% endfor %}
 </ul>
+{% endblock %}
