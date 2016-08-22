@@ -10,12 +10,12 @@
 
 <section>
     <div id="search-results">
+        <ul>
+        {% for name, dept in departments.items() %}
+        <li> <a href="{{ dept.localurl }}">{{ name }}</a></li>
+        {% endfor %}
+        </ul>
     </div>
-<ul>
-{% for department in departments %}
-<li> <a href="/department/{{ department }}">{{ department }}</a></li>
-{% endfor %}
-</ul>
 </section>
 
 <hr>

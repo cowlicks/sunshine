@@ -2,6 +2,28 @@
 
 {% block content %}
 
+<p>
 Welcome to the {{ department }} department.
+</p>
+
+
+<table>
+  <tr>
+    <td> Email: </td>
+    <td> {{ department.email }} </td>
+  </tr>
+  <tr>
+    <td> Name: </td>
+    <td> {{ department.name }} </td>
+  </tr>
+  <tr>
+    <td> Notes: </td>
+    <td> {{ department.notes }} </td>
+  </tr>
+  <tr>
+    <td> url: </td>
+    <td><a href="{{ department.url }}">{{ department.url }}</a></td>
+  </tr>
+</table>
 
 {% endblock %}
