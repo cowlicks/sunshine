@@ -2,8 +2,6 @@ from flask import render_template, jsonify, request
 
 from app import app
 
-departments = [Department(d) for d in ['water', 'trash', 'cops']]
-
 @app.route('/')
 def index():
     return render_template('index.html', departments=departments)
@@ -14,10 +12,13 @@ def department(dept):
 
 @app.route('/search', methods=['POST'])
 def search():
-    return jsonify(result=request.json)
+    query = request.json['query']
+    res = list(map(lambda x: x.__repr__(),
+                   filter(lambda d: d.search(query), departments)))
+    return jsonify(res)
 
 class Department:
-    def __init__(self, name)
+    def __init__(self, name):
         # TODO
         #, description, contact)
         self.name = name
@@ -32,6 +33,8 @@ class Department:
         query = stemmer(query)
         if query in self.stemmed_name:
             return True
+        else:
+            return False
 
     def __str__(self):
         return self.name
@@ -39,5 +42,8 @@ class Department:
     def __repr__(self):
         return self.name
 
+
 def stemmer(string):
     return string.lower()
+
+departments = [Department(d) for d in ['water', 'trash', 'cops']]
