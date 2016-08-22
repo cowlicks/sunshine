@@ -1,0 +1,954 @@
+{
+  "contacts": {
+    "San Francisco": {
+      "Mayor's Office": {
+        "email": "mayorsunshinerequests@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Municipal Transportation Agency": {
+        "email": "sfmtasunshinerequests@sfmta.com",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Human Services Agency": {
+        "email": "hsasunshine@sfgov.org",
+        "name": "HSA Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Office of Community Investment and Infrastructure": {
+        "email": "Claudia.Guerra@sfgov.org",
+        "name": "Claudia Guerra",
+        "url": "",
+        "notes": "This is actually a state agency. It has its own Public Records Policy and is subject to the state Public Records Act."
+      },
+      "Mayor's Hunters Point Shipyard Citizens Advisory Committee": {
+        "email": "info@hpscac.com",
+        "name": "Micah Fobbs",
+        "url": "",
+        "notes": ""
+      },
+      "Department of Building Inspection": {
+        "email": "dbi.sunshinerequests@sfgov.org",
+        "name": "Sunshine Request Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Adult Probation Department": {
+        "email": "AdultProbationWebContact@sfgov.org",
+        "name": "Adult Probation Department",
+        "url": "",
+        "notes": ""
+      },
+      "Animal Care & Control": {
+        "email": "ACC@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Board of Permit Appeals": {
+        "email": "boardofappeals@sfgov.org",
+        "name": "Board of Appeals",
+        "url": "",
+        "notes": ""
+      },
+      "Arts Commission": {
+        "email": "SFAC.RecordsRequest@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Assessment Appeals Board": {
+        "email": "AAB@sfgov.org ",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Office of the Assessor-Recorder": {
+        "email": "assessor@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Asthma Task Force": {
+        "email": "karen.cohn@sfdph.org",
+        "name": "Karen Cohn",
+        "url": "",
+        "notes": ""
+      },
+      "Office of the City Administrator": {
+        "email": "city.administrator@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Ballot Simplification Committee": {
+        "email": "",
+        "name": "",
+        "url": "",
+        "notes": ""
+      },
+      "Bayview Hunters Point Citizens Advisory Committee": {
+        "email": "jack.gallagher@sfgov.org",
+        "name": "Jack Gallagher",
+        "url": "",
+        "notes": ""
+      },
+      "Planning Department": {
+        "email": "pic@sfgov.org",
+        "name": "Planning Information Center",
+        "url": "",
+        "notes": ""
+      },
+      "Bicycle Advisory Committee": {
+        "email": "sfbicycleadvisorycommittee@gmail.com",
+        "name": "Bicycle Advisory Committee",
+        "url": "",
+        "notes": ""
+      },
+      "Board of Supervisors": {
+        "email": "Board.of.Supervisors@sfgov.org",
+        "name": "Clerk of the Board of Supervisors",
+        "url": "",
+        "notes": ""
+      },
+      "Budget & Legislative Analyst": {
+        "email": "Board.of.Supervisors@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Building Inspection Commission": {
+        "email": "sonya.harris@sfgov.org",
+        "name": "Sonya Harris",
+        "url": "",
+        "notes": ""
+      },
+      "California Academy of Sciences": {
+        "email": "info@calacademy.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Capital Planning Program": {
+        "email": "cpp@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Central Shops": {
+        "email": "fleet.management@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Department of Child Support Services": {
+        "email": "SFDCSS@SFGOV.ORG",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Department of Children, Youth & Their Families": {
+        "email": "Kimberly.Cox@dcyf.org",
+        "name": "Kimberly Cox",
+        "url": "",
+        "notes": ""
+      },
+      "Office of Citizen Complaints": {
+        "email": "",
+        "name": "",
+        "url": "",
+        "notes": ""
+      },
+      "Citizen's Advisory Committee for the Central Market & Tenderloin Area": {
+        "email": "city.administrator@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Citizens’ General Obligation Bond Oversight Committee": {
+        "email": "CGOBO.committee@SFGOV.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "City Attorney": {
+        "email": "info@sfcityattorney.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "City College of San Francisco": {
+        "email": "",
+        "name": "",
+        "url": "",
+        "notes": ""
+      },
+      "City Hall Building Management": {
+        "email": "City.Hall.Building.Management@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "City Hall Preservation Advisory Commission": {
+        "email": "preserve.cityhall@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Resilient San Francisco, Office of Resilience and Recovery": {
+        "email": "laurence@kornfield.org",
+        "name": "Laurence Kornfield",
+        "url": "",
+        "notes": ""
+      },
+      "Office of Civic Engagement & Immigrant Affairs": {
+        "email": "civic.engagement@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Civil Grand Jury": {
+        "email": "CivilGrandJury@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Civil Service Commission": {
+        "email": "Custodian of Records",
+        "name": "civilservice@sfgov.org",
+        "url": "",
+        "notes": ""
+      },
+      "Committee on Information Technology": {
+        "email": "lily.liang@sfgov.org",
+        "name": "Lily Liang",
+        "url": "",
+        "notes": ""
+      },
+      "Community College Grant Program": {
+        "email": "lanita.henriquez@sfgov.org",
+        "name": "Lanita Henriquez",
+        "url": "",
+        "notes": ""
+      },
+      "Code Advisory Committee": {
+        "email": "dbi.sunshinerequests@sfgov.org",
+        "name": "Sunshine Request Coordinator",
+        "url": "",
+        "notes": ""
+      },
+      "Office of Contract Administration": {
+        "email": "oca.records@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Controller's Office": {
+        "email": "controller@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Convention Facilities Management": {
+        "email": "",
+        "name": "",
+        "url": "",
+        "notes": ""
+      },
+      "Office of the County Clerk": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/countyclerk/",
+        "notes": ""
+      },
+      "Digital Inclusion": {
+        "email": "brian.roberts@sfgov.org",
+        "name": "Brian Roberts",
+        "url": "http://sfgov3.org/index.aspx?page=1297",
+        "notes": ""
+      },
+      "Disaster Service Worker Programs": {
+        "email": "DHR.PublicRecords@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfdhr.org/disaster-service-workers",
+        "notes": ""
+      },
+      "Department of Human Resources": {
+        "email": "DHR.PublicRecords@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfdhr.org/",
+        "notes": ""
+      },
+      "District Attorney": {
+        "email": "districtattorney@sfgov.org",
+        "name": "",
+        "url": "http://sfdistrictattorney.org/",
+        "notes": ""
+      },
+      "Earthquake Safety Implementation Program": {
+        "email": "patrick.otellini@sfgov.org",
+        "name": "Patrick Otellini",
+        "url": "http://sfgov.org/esip/",
+        "notes": "Chief Resilience Officer"
+      },
+      "Office of Resilience and Recovery": {
+        "email": "patrick.otellini@sfgov.org",
+        "name": "Patrick Otellini",
+        "url": "http://sfgov.org/esip/",
+        "notes": "Chief Resilience Officer"
+      },
+      "Office of Economic and Workforce Development": {
+        "email": "Myisha.Hervey@sfgov.org",
+        "name": "Myisha Hervey",
+        "url": "http://oewd.org",
+        "notes": ""
+      },
+      "Elections Commission": {
+        "email": "elections.commission@sfgov.org",
+        "name": "San Francisco Elections Commission",
+        "url": "http://sfgov.org/electionscommission/",
+        "notes": ""
+      },
+      "Department of Elections": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/elections/",
+        "notes": "Email contact form http://sfgov.org/elections/contact-us"
+      },
+      "Department of Emergency Management": {
+        "email": "francis.zamora@sfgov.org",
+        "name": "Francis Zamora",
+        "url": "http://sfdem.org/",
+        "notes": "Form for 911 dispatch records http://sfdem.org/sites/default/files/SFDEM%283%29.pdf"
+      },
+      "Employees Retirement System": {
+        "email": "sfersconnect@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://mysfers.org/",
+        "notes": ""
+      },
+      "Entertainment Commission": {
+        "email": "crystal.stewart@sfgov.org",
+        "name": "Crystal Stewart",
+        "url": "http://sfgov.org/entertainment",
+        "notes": ""
+      },
+      "Environment Commission": {
+        "email": "environment@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfenvironment.org/environment-commission",
+        "notes": ""
+      },
+      "Environment Department": {
+        "email": "environment@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfenvironment.org/",
+        "notes": ""
+      },
+      "Ethics Commission": {
+        "email": "ethics.commission@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://www.sfethics.org/",
+        "notes": ""
+      },
+      "Board of Examiners": {
+        "email": "dbi.sunshinerequests@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfdbi.org/board-examiners",
+        "notes": ""
+      },
+      "Fair Lending Working Group": {
+        "email": "city.administrator@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfgov.org/fairlendingwg",
+        "notes": ""
+      },
+      "Film Commission": {
+        "email": "film@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://filmsf.org/",
+        "notes": ""
+      },
+      "Office of Financial Empowerment": {
+        "email": "Sf.ofe@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfgov.org/ofe/",
+        "notes": ""
+      },
+      "Fine Arts Museums of San Francisco": {
+        "email": "contact@famsf.org",
+        "name": "Custodian of Records",
+        "url": "http://www.famsf.org/",
+        "notes": ""
+      },
+      "Fire Commission": {
+        "email": "Fire.Commission@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sf-fire.org/fire-commission-home",
+        "notes": ""
+      },
+      "Fire Department": {
+        "email": "FirePublicRecords@sfgov.org",
+        "name": "Public Records Officer",
+        "url": "http://sf-fire.org",
+        "notes": ""
+      },
+      "Fleet Management Program": {
+        "email": "fleet.management@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "",
+        "notes": ""
+      },
+      "Floodplain Management Program": {
+        "email": "city.administrator@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfgsa.org/san-francisco-floodplain-management-program",
+        "notes": ""
+      },
+      "Food Service Waste Reduction Ordinance": {
+        "email": "city.administrator@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfgov.org/ccsfgsa/food-service-waste-reduction-ordinance",
+        "notes": ""
+      },
+      "General Services Agency": {
+        "email": "city.administrator@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfgsa.org",
+        "notes": ""
+      },
+      "Give2SF Program": {
+        "email": "City.Administrator@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://give2sf.org",
+        "notes": ""
+      },
+      "Grants for the Arts": {
+        "email": "gfta@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfgfta.org/",
+        "notes": ""
+      },
+      "Health Service System": {
+        "email": "",
+        "name": "",
+        "url": "http://myhss.org/",
+        "notes": "List of key contacts is rather long http://myhss.org/member_services/key_contacts.html"
+      },
+      "Historic Preservation Commission": {
+        "email": "Commissions.Secretary@sfgov.org",
+        "name": "Jonas P. Ionin",
+        "url": "http://sf-planning.org/historic-preservation-commission",
+        "notes": ""
+      },
+      "Historic Preservation Fund Committee": {
+        "email": "jon.lau@sfgov.org",
+        "name": "Jon Lau",
+        "url": "http://oewd.org/historic-preservation-fund-committee-grants",
+        "notes": ""
+      },
+      "Housing Authority": {
+        "email": "customercare@sfha.org",
+        "name": "Custodian of Records",
+        "url": "http://www.sfha.org/",
+        "notes": ""
+      },
+      "Human Rights Commission": {
+        "email": "hrc.info@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sf-hrc.org/",
+        "notes": ""
+      },
+      "Immigrant Rights Commission": {
+        "email": "civic.engagement@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfgov.org/oceia/immigrant-rights-commission",
+        "notes": ""
+      },
+      "Office of Civic Engagement and Immigrant Affairs": {
+        "email": "civic.engagement@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfgov.org/oceia/",
+        "notes": ""
+      },
+      "Jury Commission": {
+        "email": "",
+        "name": "",
+        "url": "http://sfsuperiorcourt.org/divisions/jury-services",
+        "notes": ""
+      },
+      "Justice Tracking Information System (JUS.T.I.S.)": {
+        "email": "City.Administrator@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfgov.org/justis/",
+        "notes": ""
+      },
+      "Juvenile Probation Commission": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/juvprobation/juvenile-probation-commission",
+        "notes": "Juvenile Probation Department\n375 Woodside Avenue\nSan Francisco, CA 94127\n\nPhone: (415) 753-7800\nFax: (415) 753-7715"
+      },
+      "Juvenile Probation Department": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/juvprobation/",
+        "notes": "Juvenile Probation Department\n375 Woodside Avenue\nSan Francisco, CA 94127\n\nPhone: (415) 753-7800\nFax: (415) 753-7715"
+      },
+      "Office of Labor Standards Enforcement": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/olse/",
+        "notes": "http://sfgov.org/olse/contact-us"
+      },
+      "San Francisco Law Library": {
+        "email": "sflawlibrary@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sflawlibrary.org/",
+        "notes": ""
+      },
+      "Library Citizens Advisory Committee": {
+        "email": "scau1321@aol.com",
+        "name": "Sue Cauthen",
+        "url": "http://sfgov.org/lcac/contact-us",
+        "notes": ""
+      },
+      "San Francisco Public Library": {
+        "email": "Michelle.Jeffers@sfpl.org",
+        "name": "Michelle Jeffers",
+        "url": "http://sfpl.org/index.php?pg=2000147101",
+        "notes": "Chief, Community Programs & Partnerships"
+      },
+      "Local Agency Formation Commission": {
+        "email": "lafco@sfgov.org",
+        "name": "Alisa Somera",
+        "url": "http://sfbos.org/index.aspx?page=4154",
+        "notes": ""
+      },
+      "Local Homeless Coordinating Board": {
+        "email": "megan.owens@sfgov.org",
+        "name": "Megan Owens Faught",
+        "url": "http://sfgov.org/lhcb/contact-us",
+        "notes": ""
+      },
+      "Marijuana Offenses Oversight Committee": {
+        "email": "",
+        "name": "",
+        "url": "",
+        "notes": ""
+      },
+      "Mayor's Disability Council": {
+        "email": "",
+        "name": "",
+        "url": "",
+        "notes": "Mayor's Office on Disability\nAttention: MDC Council\n1155 Market Street, 1st Floor\nSan Francisco, Ca. 94103\n\nTTY: (415) 554-6799\nPhone: (415) 554-6789\nFax: (415) 554-6159"
+      },
+      "Mayor's Office of Housing and Community Development": {
+        "email": "sunshinemohcd@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfmohcd.org/contact-0",
+        "notes": ""
+      },
+      "Mayor's Office of Criminal Justice": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/mocj/",
+        "notes": "Mayor's Office - Criminal Justice\n1 Dr. Carlton B. Goodlett Place, Room 200\nSan Francisco, CA 94102"
+      },
+      "Mayor's Office of Education": {
+        "email": "hydra.mendoza@sfgov.org",
+        "name": "Hydra Mendoza",
+        "url": "http://sfmayor.org/education",
+        "notes": ""
+      },
+      "Mayor's Office of Neighborhood Services": {
+        "email": "",
+        "name": "",
+        "url": "http://sfmayor.org/neighborhood-services",
+        "notes": ""
+      },
+      "Mayor's Office on Disability": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/mod/",
+        "notes": ""
+      },
+      "Medical Cannabis Task Force": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/ccsfgsa/medical-cannabis-task-force",
+        "notes": ""
+      },
+      "Medical Examiner": {
+        "email": "Medical.Examiner@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfgov.org/medexaminer/",
+        "notes": "Office of the Chief Medical Examiner\nGeneral Services Agency\nCity and County of San Francisco\nHall of Justice\n850 Bryant Street - North Terrace\nSan Francisco, CA 94103\n\nPhone: (415) 553-1694\nFax: (415) 553-1650"
+      },
+      "Mental Health Board": {
+        "email": "mhb@mentalhealthboardsf.org",
+        "name": "Custodian of Records",
+        "url": "http://www.mhbsf.org/",
+        "notes": "1380 Howard Street, Suite 226\nSan Francisco, CA 94103\nPhone: 415-255-3474\nFax: 415-255-3760"
+      },
+      "Mission Bay Pavilion Project": {
+        "email": "john.gavin@sfgov.org",
+        "name": "John Gavin",
+        "url": "http://sfgov.org/mbs-pavilion/contact-us",
+        "notes": ""
+      },
+      "NERT (Neighborhood Emergency) Program": {
+        "email": "",
+        "name": "",
+        "url": "",
+        "notes": ""
+      },
+      "Planning Commission": {
+        "email": "Commissions.Secretary@sfgov.org",
+        "name": "Jonas Ionin",
+        "url": "http://sf-planning.org/planning-commission",
+        "notes": ""
+      },
+      "Police Commission": {
+        "email": "sfpd.commission@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sanfranciscopolice.org/police-commission",
+        "notes": ""
+      },
+      "Police Department": {
+        "email": "sfpdmediarelations@sfgov.org",
+        "name": "Media Relations Unit",
+        "url": "http://sanfranciscopolice.org/",
+        "notes": ""
+      },
+      "Port Of San Francisco": {
+        "email": "renee.martin@sfport.com",
+        "name": "Renee Martin",
+        "url": "http://sfport.com/",
+        "notes": ""
+      },
+      "Power Plant Task Force": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/ccsfgsa/power-plant-task-force",
+        "notes": ""
+      },
+      "Presidio & CCSF Transportation Work Group": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/ccsfgsa/presidio-ccsf-transportation-work-group",
+        "notes": ""
+      },
+      "Presidio Neighborhood Representative Work Group": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/ccsfgsa/presidio-neighborhood-representative-work-group",
+        "notes": ""
+      },
+      "Project Pull": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/projectpull/",
+        "notes": ""
+      },
+      "Public Access TV Contract Renewal": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov3.org/index.aspx?page=1511",
+        "notes": ""
+      },
+      "Public Defender": {
+        "email": "media@sfpublicdefender.org",
+        "name": "Tamara Aparton",
+        "url": "http://sfpublicdefender.org/",
+        "notes": ""
+      },
+      "Office of Public Finance": {
+        "email": "Nadia.Sesay@sfgov.org",
+        "name": "Nadia Sesay",
+        "url": "sfgov.org/opf",
+        "notes": ""
+      },
+      "Public Health Commission": {
+        "email": "health.commission.dph@sfdph.org",
+        "name": "Custodian of Records",
+        "url": "https://www.sfdph.org/dph/comupg/aboutdph/hc/default.asp",
+        "notes": ""
+      },
+      "Department of Public Health": {
+        "email": "PublicRecords.dph@sfdph.org ",
+        "name": "Public Information Officer",
+        "url": "health.commission.dph@sfdph.org",
+        "notes": ""
+      },
+      "Public Utilities Commission": {
+        "email": "publicrecords@sfwater.org",
+        "name": "Custodian of Records",
+        "url": "http://sfwater.org/",
+        "notes": ""
+      },
+      "Department of Public Works": {
+        "email": "dpw@sfdpw.org",
+        "name": "Custodian of Records",
+        "url": "http://www.sfpublicworks.org/",
+        "notes": ""
+      },
+      "Real Estate Division": {
+        "email": "RealEstateAdmin@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfgov.org/realestate/",
+        "notes": ""
+      },
+      "Real Estate Fraud Prosecution Trust Fund Committee": {
+        "email": "",
+        "name": "",
+        "url": "sfgov.org/refptc",
+        "notes": ""
+      },
+      "Recreation & Park Commission": {
+        "email": "eric.pawlowsky@sfgov.org",
+        "name": "Eric Pawlowsky",
+        "url": "http://sfrecpark.org/about/recreation-park-commission/",
+        "notes": ""
+      },
+      "Recreation & Park Department": {
+        "email": "eric.pawlowsky@sfgov.org",
+        "name": "Eric Pawlowsky",
+        "url": "http://sfrecpark.org/about/recreation-park-commission/",
+        "notes": ""
+      },
+      "Redistricting Task Force": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/ccsfgsa/2010-census-redistricting-task-force",
+        "notes": ""
+      },
+      "Reentry Council": {
+        "email": "reentry.council@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfgov.org/sfreentry/",
+        "notes": ""
+      },
+      "Relocation Appeals Board": {
+        "email": "Eugene.flannery@sfgov.org",
+        "name": "Eugene Flannery",
+        "url": "http://sfmohcd.org/contact",
+        "notes": ""
+      },
+      "Rent Board": {
+        "email": "",
+        "name": "",
+        "url": "http://sfrb.org/",
+        "notes": ""
+      },
+      "Office of Resilience & Recovery": {
+        "email": "patrick.otellini@sfgov.org",
+        "name": "Patrick Otellini",
+        "url": "http://sfgov.org/orr/contact-us",
+        "notes": "Office of Resilience and Recovery\nCity Hall, Room 362\n1 Dr. Carlton B. Goodlett Place\nSan Francisco, CA 94102\nMain Line: (415) 554-4925"
+      },
+      "Risk Management": {
+        "email": "Risk.Management@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfgsa.org/risk-management",
+        "notes": ""
+      },
+      "Sanctuary Ordinance": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/ccsfgsa/sanctuary-ordinance",
+        "notes": ""
+      },
+      "S.F. Unified School District": {
+        "email": "",
+        "name": "",
+        "url": "http://sfusd.edu/",
+        "notes": "555 Franklin Street, Room 305\n\nPhone:\n415-241-6565"
+      },
+      "SFBiz Tax": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/sfc/san-francisco-gross-receipts-tax",
+        "notes": ""
+      },
+      "SFFood": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/sffood/contact-us",
+        "notes": "Contact Form http://sfgov.org/sffood/contact-us"
+      },
+      "SFGovTV - Cable TV (Government Access)": {
+        "email": "sfgovtv@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfgovtv.org/",
+        "notes": ""
+      },
+      "Shelter Monitoring Committee": {
+        "email": "shelter.monitoring@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfgov.org/sheltermonitoring/",
+        "notes": ""
+      },
+      "Sheriff Department": {
+        "email": "sheriff@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfsheriff.com/",
+        "notes": ""
+      },
+      "Office of Short Term Rentals": {
+        "email": "shorttermrentals@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sf-planning.org/office-short-term-rental-registry-faqs",
+        "notes": ""
+      },
+      "Single Room Occupancy (SRO) Task Force": {
+        "email": "bernadette.perez@sfgov.org",
+        "name": "Bernadette Perez",
+        "url": "http://sfdbi.org/single-room-occupancy-sro-task-force",
+        "notes": ""
+      },
+      "Slavery Era Disclosure Ordinance": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/slaveryera",
+        "notes": ""
+      },
+      "Small Business Commission": {
+        "email": "SBAC@SFGOV.ORG",
+        "name": "Custodian of Records",
+        "url": "http://sfosb.org/small-business-commission",
+        "notes": ""
+      },
+      "Office of Small Business": {
+        "email": "SBAC@SFGOV.ORG",
+        "name": "Custodian of Records",
+        "url": "http://sfosb.org/",
+        "notes": ""
+      },
+      "Southeast Community Facility Commission": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/sefacility/",
+        "notes": "Southeast Community Facility Commission\n1800 Oakdale Avenue, Phelps Wing\nSan Francisco, CA 94124\nPhone: (415) 821-1534\nFax: (415) 821-1627"
+      },
+      "State Legislation Committee": {
+        "email": "andrew.dayton@sfgov.org",
+        "name": "Andrew Dayton",
+        "url": "http://sfgov.org/slc/",
+        "notes": ""
+      },
+      "Commission on the Status of Women": {
+        "email": "dosw@sfgov.org”",
+        "name": "Custodian of Records",
+        "url": "http://sfgov.org/dosw/san-francisco-commission-status-women",
+        "notes": ""
+      },
+      "Department on the Status of Women": {
+        "email": "dosw@sfgov.org”",
+        "name": "Custodian of Records",
+        "url": "http://sfgov.org/dosw/san-francisco-commission-status-women",
+        "notes": ""
+      },
+      "Sunshine Ordinance Task Force": {
+        "email": "sotf@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfbos.org/index.aspx?page=4459",
+        "notes": "Sunshine Ordinance Task Force\n1 Dr. Carlton B. Goodlett Place\nRoom 244\nSan Francisco, CA 94102-4689\n(415) 554-7724 - voice\n(415) 554-5163 - fax"
+      },
+      "Superior Court": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/courts",
+        "notes": ""
+      },
+      "Department of Technology": {
+        "email": "lily.liang@sfgov.org",
+        "name": "Lily Liang",
+        "url": "",
+        "notes": ""
+      },
+      "Transbay Joint Powers Authority": {
+        "email": "info@transbaycenter.org",
+        "name": "Custodian of Records",
+        "url": "http://transbaycenter.org/",
+        "notes": ""
+      },
+      "San Francisco County Transportation Authority": {
+        "email": "eric.young@sfcta.org ",
+        "name": "Eric Young",
+        "url": "http://www.sfcta.org/press",
+        "notes": ""
+      },
+      "Treasure Island Development Authority": {
+        "email": "",
+        "name": "",
+        "url": "http://sftreasureisland.org/",
+        "notes": "Contact Form http://sftreasureisland.org/contact"
+      },
+      "Treasurer/Tax Collector": {
+        "email": "",
+        "name": "",
+        "url": "http://sftreasurer.org/",
+        "notes": ""
+      },
+      "Unreinforced Masonry Appeals Board": {
+        "email": "",
+        "name": "",
+        "url": "http://sfdbi.org/unreinforced-masonry-building-appeals-board",
+        "notes": "Gary Ho, Structural Engineer at 558-6083, or Serena Fung at 558-6196.  Secretary of the UMB Appeals Board may be reached at:\n\nUMB Appeals Board\nDepartment of Building Inspection\n1660 Mission Street, 2nd Floor,\nSan Francisco, CA 94103-2414;\nTel. (415) 558-6196, Fax (415) 558-6686\n"
+      },
+      "Utility Undergrounding Task Force": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/ccsfgsa/utility-undergrounding-task-force",
+        "notes": ""
+      },
+      "Veterans Affairs Commission": {
+        "email": "brendancrogers@gmail.com",
+        "name": "Brendan Rogers",
+        "url": "http://sfgov.org/vets/contact",
+        "notes": ""
+      },
+      "Veterans' Service Office": {
+        "email": "",
+        "name": "",
+        "url": "http://sfhsa.org/134.htm",
+        "notes": "County Veterans Service Office\n2 Gough Street\nSan Francisco, CA 94103\n\nMain: (415) 934-4200\nToll Free CA Only: 1-800-807-5799\nFax: (415) 934-4240"
+      },
+      "Voting Systems Task Force": {
+        "email": "",
+        "name": "",
+        "url": "http://sfgov.org/ccsfgsa/voting-systems-task-force",
+        "notes": ""
+      },
+      "War Memorial and Performing Arts Center": {
+        "email": "WarMemorialInfo@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfwmpac.org/",
+        "notes": ""
+      },
+      "Western SoMa Citizens Planning Task Force": {
+        "email": "",
+        "name": "",
+        "url": "http://sf-planning.org/western-soma",
+        "notes": ""
+      },
+      "Youth Commission": {
+        "email": "youthcom@sfgov.org",
+        "name": "Custodian of Records",
+        "url": "http://sfbos.org/index.aspx?page=5585",
+        "notes": "City Hall\n1 Dr. Carlton B. Goodlett Place, Room 345\nSan Francisco, CA 94102-4532\n\nGeneral: (415) 554-6446\nFax: (415) 554-6140"
+      },
+      "San Francisco Zoo": {
+        "email": "rachele@sfzoo.org",
+        "name": "Custodian of Records",
+        "url": "http://www.sfzoo.org/about/contact.htm",
+        "notes": ""
+      }
+    }
+  }
+}
