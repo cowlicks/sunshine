@@ -18,6 +18,7 @@ COPY requirements.txt /usr/src/app/
 RUN pip install --no-cache-dir -r requirements.txt
 
 COPY app /usr/src/app/app
+COPY app/static /usr/src/app/static
 
 # nginx setup
 RUN rm /etc/nginx/sites-enabled/default
