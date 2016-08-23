@@ -20,8 +20,6 @@ def search():
 
 class Department:
     def __init__(self, name, data):
-        # TODO
-        #, description, contact)
         self.name = name
         self.stemmed_name = stemmer(name)
 
