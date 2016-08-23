@@ -1,7 +1,16 @@
-function onSearch(e) {
-  var query = document.getElementById("search-box").value;
-
-  search(query);
+function debouncer(func, wait, immediate) {
+  var timeout;
+  return function() {
+    var context = this, args = arguments;
+    var later = function() {
+      timeout = null;
+      if (!immediate) func.apply(context, args);
+    };
+    var callNow = immediate && !timeout;
+    clearTimeout(timeout);
+    timeout = setTimeout(later, wait);
+    if (callNow) func.apply(context, args);
+  };
 }
 
 function parseSearch(results) {
@@ -31,5 +40,10 @@ function search(query) {
   xhr.send(data);
 }
 
+function onSearch() {
+  var query = document.getElementById("search-box").value;
+  search(query);
+}
+
 var searchEl = document.getElementById("search-box");
-searchEl.addEventListener("input", onSearch, true);
+searchEl.addEventListener("input", debouncer(onSearch, 250), true);
