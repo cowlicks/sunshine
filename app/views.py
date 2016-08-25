@@ -1,5 +1,5 @@
 import os
-from flask import render_template, jsonify, request, json
+from flask import render_template, jsonify, request, json, abort
 
 from app import app
 
@@ -9,7 +9,10 @@ def index():
 
 @app.route('/department/<dept>')
 def department(dept):
-    return render_template('department.html', department=departments[dept])
+    department = departments.get(dept)
+    if department is None:
+        abort(404)
+    return render_template('department.html', department=department)
 
 @app.route('/search', methods=['POST'])
 def search():
