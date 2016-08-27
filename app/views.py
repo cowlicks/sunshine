@@ -7,12 +7,16 @@ from app import app
 def index():
     return render_template('index.html', departments=departments)
 
+@app.route('/email-template')
+def email_template():
+    return render_template('email-template.html')
+
 @app.route('/department/<dept>')
 def department(dept):
     department = departments.get(dept)
     if department is None:
         abort(404)
-    return render_template('department.html', department=department)
+    return render_template('department.html', department=department, email_body=email_body)
 
 @app.route('/search', methods=['POST'])
 def search():
@@ -61,6 +65,40 @@ def get_contacts():
     json_url = os.path.join(root, 'static', 'contacts.json')
     with open(json_url) as f:
         return json.load(f)['contacts']['San Francisco']
+
+email_body = """
+[Date of Request]%0D%0A
+Dear [Contact],%0D%0A
+
+Under the California Public Records Act § 6250 et seq., and%0D%0A
+San Francisco Municipal Code Chapter 67 et seq. (“Sunshine%0D%0A
+Ordinance”), I request access to and copies of the following%0D%0A
+information in electronic, searchable/sortable format, where applicable.%0D%0A
+%0D%0A
+%0D%0A
+[Outline of the information requested, including dates where applicable.]%0D%0A
+%0D%0A
+%0D%0A
+I’d be happy to discuss my request to figure out what would be the easiest%0D%0A
+or best way to provide the requested data. If there are any fees, I%0D%0A
+respectfully ask that you notify me if costs exceed $25.%0D%0A
+%0D%0A
+%0D%0A
+If my request is denied in whole or part, I ask that you justify all%0D%0A
+deletions by reference to specific exemptions of the law. I will also%0D%0A
+expect you to release all segregable portions of otherwise exempt%0D%0A
+material. I reserve the right to appeal your decision to withhold any%0D%0A
+information or deny a waiver of fees.%0D%0A
+%0D%0A
+%0D%0A
+Please contact me by email if you have any questions about this request. I%0D%0A
+expect a response within 10 business days of this filing, as is required by%0D%0A
+state law. Thank you for your assistance.%0D%0A
+%0D%0A
+%0D%0A
+Sincerely,%0D%0A
+[Name]%0D%0A
+"""
 
 contacts = get_contacts()
 departments = dict((k, Department(k, v)) for k, v in contacts.items())

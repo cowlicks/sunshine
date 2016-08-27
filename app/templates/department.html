@@ -8,11 +8,25 @@
 </h2>
 </p>
 
+<p>
+  Information about who to contact at each city office was compiled by hand
+  from dozens of websites and may be incomplete or outdated. In some cases, the
+  office in question didn’t list any public records contact at all. This is our
+  best guess of who to contact. If you can help correct something or fill in
+  missing information, please <a href='mailto:jds@riseup.net'>email John</a> or
+  create an issue <a href='https://github.com/cowlicks/sunshine'>on GitHub</a>.
+</p>
+
+<p>
+Feel free to use <a href="/email-template"> this template </a> which includes
+all the legalese.
+</p>
+
 
 <table>
   <tr>
     <td> Email: </td>
-    <td> <a href="mailto:{{ department.email }}"> {{ department.email }} </a></td>
+    <td> <a href="mailto:{{ department.email }}?subject=Sunshine Ordinance Request&body={{ email_body }}"> {{ department.email }} </a></td>
   </tr>
   <tr>
     <td> Name: </td>
@@ -27,26 +41,5 @@
     <td><a href="{{ department.url }}">{{ department.url }}</a></td>
   </tr>
 </table>
-
-<p>
-  Information about who to contact at each city office was compiled by hand
-  from dozens of websites and may be incomplete or outdated. In some cases, the
-  office in question didn’t list any public records contact at all. This is our
-  best guess of who to contact. If you can help correct something or fill in
-  missing information, please <a href='mailto:jds@riseup.net'>email John</a> or
-  create an issue <a href='https://github.com/cowlicks/sunshine'>on GitHub</a>.
-</p>
-
-<h3>Sample Email Template</h3>
-
-<p>[Date of Request]</p>
-<p>Dear [Contact],</p>
-<p>Under the <strong>California Public Records Act § 6250 et seq.</strong>, and <strong>San Francisco Municipal Code Chapter 67 et seq. (“Sunshine Ordinance”)</strong>, I request access to and copies of the following information in electronic, searchable/sortable format, where applicable.</p>
-<p>[Outline of the information requested, including dates where applicable.]</p>
-<p>I’d be happy to discuss my request to figure out what would be the easiest or best way to provide the requested data. If there are any fees, I respectfully ask that you notify me if costs exceed $25.</p>
-<p>If my request is denied in whole or part, I ask that you <strong>justify all deletions by reference to specific exemptions of the law</strong>. I will also expect you to <strong>release all segregable portions of otherwise exempt material</strong>. I reserve the right to appeal your decision to withhold any information or deny a waiver of fees.</p>
-<p>Please contact me by email if you have any questions about this request. I expect a response within 10 business days of this filing, as is required by state law. Thank you for your assistance.</p>
-<p>Sincerely,</p>
-<p>[Name]</p>
 
 {% endblock %}
