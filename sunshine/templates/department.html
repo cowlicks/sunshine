@@ -4,7 +4,7 @@
 
 <p>
 <h2>
-{{ department }} Public Records Request Information
+{{ department.name }} Public Records Request Information
 </h2>
 </p>
 
@@ -26,7 +26,9 @@ all the legalese.
 <table>
   <tr>
     <td> Email: </td>
-    <td> <a href="mailto:{{ department.email }}?subject=Public Records Request&body={{ email_body }}"> {{ department.email }} </a></td>
+    <td> <a href="mailto:{{ department.email }}?subject=Public Records Request&body=
+{{ email_body }}
+"> {{ department.email }} </a></td>
   </tr>
   <tr>
     <td> Name: </td>
