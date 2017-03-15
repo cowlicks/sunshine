@@ -1,5 +1,6 @@
 # coding: utf-8
 import os
+import time
 from flask import render_template, jsonify, request, json, abort
 
 from sunshine import app
@@ -68,8 +69,7 @@ def get_contacts():
         return json.load(f)['contacts']['San Francisco']
 
 email_body = """
-[Date of Request]%0D%0A
-Dear [Contact],%0D%0A
+To Whom It May Concern,%0D%0A
 %0D%0A
 %0D%0A
 Under the California Public Records Act 6250 et seq., and 
